@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mim:
 👋 Olá, sou o Yago Fernandes !<br><br>👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas, buscando aprimorar minhas habilidades técnicas.<br><br>🧑🏼‍🎓 Atualmente, estou focado nos estudos de C#, ASP.NET, desenvolvimento para desktop e SQL. 
 
 
